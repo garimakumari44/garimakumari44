@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>garima</title>
-</head>
-<body>
-    <img src="coding img.gif" > 
-</body>
-</html> 
+https://dribbble.com/shots/5487982-Developers-Gif/attachments/10896348?mode=media
