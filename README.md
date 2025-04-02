@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Garima Kumari</h1>
 <h3 align="center">A passionate programmer and technology enthusiastic.</h3>
 
-- 🔭 I’m currently working on **Healthcare Projects**
-
-- 💬 Ask me about **Python, Data Visualization, Css**
-
-- 📫 How to reach me **garimakumari265@gmail.com**
-
-- ⚡ Fun fact **I think musical artists are funny and can find humor in dark**
-
 <h3 align="left">Connect with me:</h3>
 <img align="right" width='400' src="https://dribbble.com/shots/5487982-Developers-Gif">
 <p align="left">
