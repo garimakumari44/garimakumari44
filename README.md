@@ -61,7 +61,7 @@ My goal is to build and research **scalable, intelligent, and responsible AI sys
 </a>
 </p>
 
-📧 **Email:** garimakumari44@gmail.com
+📧 **Email:** garimakumari265@gmail.com
 <p align="center">
 <i>Building intelligent systems that learn, adapt, and collaborate.</i>
 </p>
