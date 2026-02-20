@@ -2,18 +2,17 @@
 <h3 align="center">Machine Learning | NLP | Reinforcement Learning | Multi-Agent Systems</h3>
 
 <p align="center">
-Curious about how intelligent systems think, learn, and interact.
+Exploring how intelligent systems learn, reason, and collaborate.
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Economics (Hons) student with a strong inclination toward **AI research & intelligent systems**
-- 🤖 Deeply interested in **Machine Learning, Natural Language Processing, Reinforcement Learning, and Multi-Agent Systems**
-- 🔬 Passionate about building systems that combine **theory + real-world impact**
-- 🧩 Love solving algorithmic problems and understanding the *why* behind models
-- 🚀 Currently exploring research-driven AI systems and scalable ML architectures
+- 🎓 Economics (Hons) student passionate about **AI research and intelligent systems**
+- 🤖 Strong interest in **Machine Learning, NLP, Reinforcement Learning, and Multi-Agent Systems**
+- 🔬 Curious about model behavior, optimization, and emergent intelligence
+- 🚀 Building research-driven AI systems and scalable full-stack applications
 
 ---
 
@@ -21,33 +20,36 @@ Curious about how intelligent systems think, learn, and interact.
 
 - 🧠 Representation Learning & Contextual Embeddings  
 - 📚 Large Language Models & Responsible AI  
-- 🎯 Reinforcement Learning (Single & Multi-Agent Settings)  
-- 🤝 Emergent Behavior in Multi-Agent Systems  
-- 🌐 AI for Social Good & Computational Social Systems  
+- 🎯 Reinforcement Learning (Single & Multi-Agent Systems)  
+- 🤝 Emergent Coordination & Strategy Learning  
+- 🌐 AI for Social Systems & Real-World Impact  
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages:**  
-C | Python  
+C | Python | TypeScript  
 
 **AI / ML:**  
 PyTorch | Pandas | NLP | Deep Learning  
 
-**Web & Tools:**  
-HTML | CSS | Git | GitHub  
+**Frontend / Full-Stack:**  
+React | Next.js | HTML | CSS  
+
+**Tools:**  
+Git | GitHub  
 
 ---
 
 ### 📈 What Drives Me
 
-I am fascinated by how learning systems adapt over time — whether it’s:
-- an RL agent optimizing rewards,
-- a language model understanding context,
-- or multiple agents coordinating strategies.
+I am fascinated by adaptive systems — whether it’s:
+- an RL agent optimizing long-term rewards,
+- a language model understanding contextual meaning,
+- or multiple agents learning coordination strategies.
 
-My goal is to contribute to **research-oriented AI systems** that are scalable, ethical, and intelligent.
+My goal is to build and research **scalable, intelligent, and responsible AI systems**.
 
 ---
 
@@ -62,5 +64,5 @@ My goal is to contribute to **research-oriented AI systems** that are scalable, 
 ---
 
 <p align="center">
-<i>“Building intelligent systems that learn, adapt, and collaborate.”</i>
+<i>Building intelligent systems that learn, adapt, and collaborate.</i>
 </p>
