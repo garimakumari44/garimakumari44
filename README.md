@@ -4,6 +4,7 @@
 <p align="center">
 Exploring how intelligent systems learn, reason, and collaborate.
 </p>
+![Uploading image.png…]()
 
 ---
 
