@@ -1,70 +1,161 @@
-<h1 align="center">Hi 👋, I'm Garima Kumari</h1>
-<h3 align="center">Machine Learning | NLP | Reinforcement Learning | Multi-Agent Systems</h3>
+<div align="center">
+
+# 👋 Hi, I'm Garima Kumari
+
+### AI Engineer • Machine Learning Researcher • Building Enterprise AI Systems
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Researcher;Building+Enterprise+AI+Systems;LLMs+%7C+Multi-Agent+Systems+%7C+NLP;Always+Building..." />
+
+</div>
+
+---
+
+# 🧠 About Me
+
+```python
+class Garima:
+
+    role = "AI Engineer"
+
+    focus = [
+        "Machine Learning",
+        "Large Language Models",
+        "AI Workflow Orchestration",
+        "Enterprise AI Systems",
+        "Multi-Agent AI",
+        "NLP",
+        "Reinforcement Learning"
+    ]
+
+    currently_building = [
+        "Enterprise Document Intelligence",
+        "AI Workflow Orchestration Platform",
+        "Production AI Infrastructure"
+    ]
+
+    mission = "Building AI that learns, reasons and scales."
+```
+
+---
+
+# 🚀 Current Focus
+
+🧠 Building production-grade AI systems
+
+⚡ AI Workflow Orchestration
+
+📄 Enterprise Document Intelligence
+
+🤖 Multi-Agent AI Architectures
+
+📚 Machine Learning Research
+
+🏗 Scalable Backend Systems
+
+---
+
+# 🔬 Research Interests
+
+🧠 Representation Learning
+
+📖 Large Language Models
+
+🤖 AI Agents
+
+⚡ Reinforcement Learning
+
+🌐 Multi-Agent Collaboration
+
+📊 Responsible AI
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+
+### AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+
+![NextJS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js)
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-Exploring how intelligent systems learn, reason, and collaborate.
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# 🧠 Languages
+
 <p align="center">
-  <img src="assets/banner.png" alt="AI Banner" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 🧠 About Me
+# ⚡ Activity Graph
 
-- 🎓 Economics (Hons) student passionate about **AI research and intelligent systems**
-- 🤖 Strong interest in **Machine Learning, NLP, Reinforcement Learning, and Multi-Agent Systems**
-- 🔬 Curious about model behavior, optimization, and emergent intelligence
-- 🚀 Building research-driven AI systems and scalable full-stack applications
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-### 🔎 Research Interests
-
-- 🧠 Representation Learning & Contextual Embeddings  
-- 📚 Large Language Models & Responsible AI  
-- 🎯 Reinforcement Learning (Single & Multi-Agent Systems)  
-- 🤝 Emergent Coordination & Strategy Learning  
-- 🌐 AI for Social Systems & Real-World Impact  
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+# 🐍 Contribution Snake
 
-**Languages:**  
-C | Python | TypeScript  
+<p align="center">
 
-**AI / ML:**  
-PyTorch | Pandas | NLP | Deep Learning  
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
 
-**Frontend / Full-Stack:**  
-React | Next.js | HTML | CSS  
-
-**Tools:**  
-Git | GitHub  
+</p>
 
 ---
 
-### 📈 What Drives Me
+# 🌍 Connect
 
-I am fascinated by adaptive systems — whether it’s:
-- an RL agent optimizing long-term rewards,
-- a language model understanding contextual meaning,
-- or multiple agents learning coordination strategies.
+<p align="center">
 
-My goal is to build and research **scalable, intelligent, and responsible AI systems**.
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="[https://linkedin.com/in/garima-kumari-4122331bb](https://www.linkedin.com/in/garima-singh-4122331bb/)" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/garima-singh-4122331bb">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
 </a>
+
+<a href="mailto:garimakumari265@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
 
-📧 **Email:** garimakumari265@gmail.com
-<p align="center">
-<i>Building intelligent systems that learn, adapt, and collaborate.</i>
-</p>
+---
+
+<div align="center">
+
+## 💡 AI Engineer • ML Researcher
+
+*"Building intelligent systems that learn, reason, collaborate, and scale."*
+
+</div>
