@@ -4,7 +4,9 @@
 <p align="center">
 Exploring how intelligent systems learn, reason, and collaborate.
 </p>
-![Uploading image.png…]()
+<p align="center">
+  <img src="assets/banner.png" alt="AI Banner" width="100%">
+</p>
 
 ---
 
