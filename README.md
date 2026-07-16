@@ -1,104 +1,126 @@
+
 <div align="center">
 
 # 👋 Hi, I'm Garima Kumari
 
-### AI Engineer • Machine Learning Researcher • Building Enterprise AI Systems
+### AI Engineer • Machine Learning Researcher
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Researcher;Building+Enterprise+AI+Systems;LLMs+%7C+Multi-Agent+Systems+%7C+NLP;Always+Building..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Researcher;Building+Intelligent+AI+Systems;LLMs+•+Multi-Agent+Systems+•+NLP;Always+Learning.+Always+Building." />
+
+<br>
+
+> **Building intelligent systems that learn, reason, and collaborate.**
 
 </div>
 
 ---
 
-# 🧠 About Me
+# ⚡ About Me
 
 ```python
-class Garima:
+class GarimaKumari:
 
     role = "AI Engineer"
 
-    focus = [
+    title = "Machine Learning Researcher"
+
+    interests = [
         "Machine Learning",
+        "Natural Language Processing",
         "Large Language Models",
-        "AI Workflow Orchestration",
-        "Enterprise AI Systems",
-        "Multi-Agent AI",
-        "NLP",
-        "Reinforcement Learning"
+        "Reinforcement Learning",
+        "Multi-Agent Systems"
     ]
 
-    currently_building = [
-        "Enterprise Document Intelligence",
-        "AI Workflow Orchestration Platform",
-        "Production AI Infrastructure"
-    ]
-
-    mission = "Building AI that learns, reasons and scales."
+    mission = (
+        "Build intelligent AI systems "
+        "that learn, reason, and collaborate."
+    )
 ```
 
 ---
 
-# 🚀 Current Focus
+# 🧠 AI Engineering Focus
 
-🧠 Building production-grade AI systems
-
-⚡ AI Workflow Orchestration
-
-📄 Enterprise Document Intelligence
-
-🤖 Multi-Agent AI Architectures
-
-📚 Machine Learning Research
-
-🏗 Scalable Backend Systems
+- 🤖 AI Engineering
+- 🧠 Machine Learning
+- 📚 Natural Language Processing (NLP)
+- 💬 Large Language Models (LLMs)
+- 🎯 Reinforcement Learning
+- 🤝 Multi-Agent Systems
+- 🔬 Machine Learning Research
 
 ---
 
 # 🔬 Research Interests
 
-🧠 Representation Learning
-
-📖 Large Language Models
-
-🤖 AI Agents
-
-⚡ Reinforcement Learning
-
-🌐 Multi-Agent Collaboration
-
-📊 Responsible AI
+- 🧠 Representation Learning & Contextual Embeddings
+- 📚 Large Language Models
+- 🎯 Reinforcement Learning
+- 🤝 Multi-Agent Coordination
+- 🌍 Intelligent & Scalable AI Systems
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+<p>
 
-### AI
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF"/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00F5FF"/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00F5FF"/>
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+</p>
 
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
+### Machine Learning
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+<p>
 
-![NextJS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js)
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF6B6B"/>
+
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00F5FF"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F5FF"/>
+
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5"/>
+
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
@@ -106,21 +128,21 @@ class Garima:
 
 ---
 
-# 🧠 Languages
+# 📊 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
 
 </p>
 
 ---
 
-# ⚡ Activity Graph
+# ⚡ Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=000000"/>
 
 </p>
 
@@ -130,22 +152,22 @@ class Garima:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🌍 Connect
+# 🌐 Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/garima-singh-4122331bb">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a>
 
 <a href="mailto:garimakumari265@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </p>
@@ -154,8 +176,11 @@ class Garima:
 
 <div align="center">
 
-## 💡 AI Engineer • ML Researcher
+## 💻 AI Engineer • Machine Learning Researcher
 
-*"Building intelligent systems that learn, reason, collaborate, and scale."*
+*"Building intelligent systems that learn, reason, and collaborate."*
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F5FF&style=for-the-badge"/>
 
 </div>
+````
