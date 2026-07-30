@@ -26,6 +26,10 @@ Building intelligent systems that learn, reason, adapt, and collaborate.
 
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=600&color=6AD3FF&center=true&vCenter=true&repeat=true&width=750&lines=I+love+building...;AI+Systems.;LLM+Applications.;Autonomous+Agents.;Production+RAG+Pipelines.;Reinforcement+Learning+Systems." />
+</p>
+
 ---
 
 # <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> About Me
