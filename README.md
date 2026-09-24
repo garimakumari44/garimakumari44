@@ -1,667 +1,129 @@
 <div align="center">
 
 <!-- =========================
-     HERO
+     HEADER & COSMIC HERO
 ========================= -->
 
-<a href="https://orion-ai-henna.vercel.app/">
- <img
-  src="assets/about-focus.png"
-  width="100%"
-  alt="Universe"
-/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0F172A,70:581C87,100:00F7FF&height=220&section=header&text=GARIMA%20KUMARI&fontSize=50&fontColor=00F7FF&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20ML%20Researcher&descSize=18&descAlignY=62&descColor=E2E8F0" width="100%" alt="Header Banner" />
 
 <br/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=GARIMA+KUMARI;AI+ENGINEER;ML+RESEARCHER;BUILDING+INTELLIGENT+SYSTEMS"
-alt="Typing introduction"
-/>
-
-<br/>
-
-<h3>AI Engineer · ML Researcher · Builder</h3>
-
-<p>
-  I build production AI systems around
-  <b>agents</b>, <b>RAG</b>, <b>LLM systems</b>,
-  and <b>multi-agent architectures</b>.
-</p>
-
-<br/>
-
-<a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://github.com/garimakumari44">
-  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+for+the+real+world.;LLMs+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+Multi-Agent+Systems+%C2%B7+RL" alt="Typing Header" />
 </a>
 
 <br/><br/>
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:8B5CF6,100:05070D&height=3&section=header"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:8B5CF6,100:030712&height=2" width="100%" />
 
 </div>
 
 <br/>
 
 <!-- =========================
-     ABOUT
+     INTELLIGENT SYSTEMS
 ========================= -->
 
-# `01` — ABOUT
+# ✦ INTELLIGENT SYSTEMS
 
-> **Exploring the space between intelligence and engineering.**
+> **I build systems that retrieve, reason, coordinate, and act.**
 
-I'm an **AI Engineer** interested in the intersection of:
+I’m an **AI Engineer** interested in the space between machine learning and systems engineering.
 
-```text
-Machine Learning
-        ↓
-Intelligent Systems
-        ↓
-AI Agents + LLM Systems
-        ↓
-Retrieval + Reasoning
-        ↓
-Production Infrastructure
-```
+My work focuses on turning models into usable systems — combining retrieval, agents, orchestration, evaluation, and production infrastructure.
 
-I enjoy going beyond model calls.
-
-The interesting part, for me, is designing the **system around the model**:
-
-`retrieval` · `orchestration` · `agents` · `evaluation` · `infrastructure`
-
-I learn by:
-
-```text
-BUILD
-  ↓
-BREAK
-  ↓
-MEASURE
-  ↓
-UNDERSTAND
-  ↓
-REBUILD
-```
+Alongside applied AI, I explore reinforcement learning, multi-agent coordination, and emerging architectures for intelligent systems.
 
 ---
 
 <!-- =========================
-     FOCUS IMAGE
+     SYSTEMS I'VE BUILT
 ========================= -->
 
-# `02` — MY FOCUS
-
-<p align="center">
-  <img
-    src="docs/img/about-focus.png"
-    width="900"
-    alt="AI Engineering focus — AI Engineering, LLM Systems, Agents, Retrieval and RAG, Production ML Infrastructure"
-  />
-</p>
-
----
-
-# `03` — SYSTEMS I'VE BUILT
-
-> Three systems.
-> Three different ways of exploring intelligence.
+# ◌ SYSTEMS I'VE BUILT
 
 <br/>
 
 ## ◉ ORION
-
 ### Multi-Agent AI for Equity Research
 
-**A production-oriented multi-agent AI analyst system built to research companies and markets.**
+A multi-agent research system where specialized AI analysts collaborate across company research, financial analysis, industry intelligence, news, macroeconomics, valuation, risk, evidence, and investment review.
 
-Orion decomposes a research request into structured tasks and coordinates specialized analysts through an execution workflow.
+**Core**  
+`Multi-Agent AI` · `LLM Orchestration` · `Research Systems` · `Evaluation`
 
-```text
-Research Request
-      ↓
-Intent Analysis
-      ↓
-Adaptive Planner
-      ↓
-Task Decomposition
-      ↓
-Execution DAG
-      ↓
-Specialized Analysts
-      ↓
-Evidence
-      ↓
-Investment Committee
-      ↓
-Critic
-      ↓
-Research Report
-```
-
-### Intelligence Layer
-
-`Company`
-
-`Financial`
-
-`Industry`
-
-`News`
-
-`Macro`
-
-`Valuation`
-
-`Risk`
-
-`Evidence`
-
-`Investment Committee`
-
-`Critic`
-
-### Engineering Principles
-
-* LLMs provide reasoning and synthesis
-* Deterministic services provide calculations and data
-* Tools provide access to external information
-* Shared research context prevents uncontrolled agent coupling
-* Evidence is preserved throughout the workflow
-* Execution is observable and failure-aware
-* The LLM is **not the workflow controller**
-
-**↗ Live System**
-
-https://orion-ai-henna.vercel.app/
-
-**↗ Source Code**
-
-https://github.com/garimakumari44/Orion_AI_System
+**[Live ↗](#)** &nbsp;·&nbsp; **[Source ↗](#)**
 
 <br/>
 
 ---
 
-## ◉ ENTERPRISE AI
+## ◉ ENTERPRISE
+### Document Intelligence
 
-### Document Intelligence & AI Workflow Orchestration
+A production AI platform for transforming unstructured business documents into searchable knowledge and automated workflows.
 
-**An AI platform for transforming unstructured business documents into intelligence and automated workflows.**
+**Core**  
+`RAG` · `AI Workflows` · `Document Intelligence` · `Backend Systems`
 
-The system explores how document understanding, retrieval, LLM reasoning, and workflow orchestration can work together inside a production-oriented backend.
-
-```text
-Documents
-    ↓
-Ingestion
-    ↓
-Extraction
-    ↓
-Understanding
-    ↓
-Retrieval
-    ↓
-AI Workflow
-    ↓
-Reasoning
-    ↓
-Structured Intelligence
-```
-
-### Core Areas
-
-`Document Intelligence`
-
-`Information Extraction`
-
-`Retrieval`
-
-`LLM Workflows`
-
-`Backend Orchestration`
-
-`Production Infrastructure`
-
-The goal is not simply to ask an LLM questions about documents.
-
-It is to build the **system that turns documents into usable intelligence**.
-
-**↗ Live System**
-
-*Add deployment link*
-
-**↗ Source Code**
-
-*Add repository link*
+**[Live ↗](#)** &nbsp;·&nbsp; **[Source ↗](#)**
 
 <br/>
 
 ---
 
-## ◉ AI RESEARCH ASSISTANT
+## ◉ RESEARCH
+### AI Research Intelligence
 
-### Research Intelligence for AI Papers
+A research intelligence system combining dense retrieval, BM25, reranking, metadata filtering, and adaptive RAG to explore AI research papers.
 
-**A production-oriented research intelligence system for searching, retrieving, and reasoning over AI research papers.**
+**Core**  
+`Hybrid Retrieval` · `Adaptive RAG` · `FAISS` · `Evidence`
 
-The system treats retrieval as an engineering problem rather than simply embedding documents and calling an LLM.
-
-```text
-Research Question
-      ↓
-Query Analysis
-      ↓
-Query Rewriting
-      ↓
-Retrieval
-      ↓
-Reranking
-      ↓
-Evidence Assembly
-      ↓
-Grounded Generation
-```
-
-### Retrieval Stack
-
-`Dense Retrieval`
-
-`BM25`
-
-`RRF`
-
-`Cross-Encoder`
-
-`FAISS`
-
-`Metadata Filtering`
-
-`Adaptive RAG`
-
-`Evidence Grounding`
-
-### Core Principle
-
-> **Retrieval should produce reliable evidence before generation produces an answer.**
-
-The system is designed around:
-
-* evidence-first retrieval
-* hybrid search
-* adaptive retrieval strategies
-* provenance
-* research graphs
-* evaluation
-* grounded generation
-
-**↗ Live System**
-
-*Add deployment link*
-
-**↗ Source Code**
-
-*Add repository link*
+**[Live ↗](#)** &nbsp;·&nbsp; **[Source ↗](#)**
 
 <br/>
 
 ---
 
-# `04` — THE AI LAYER
-
-<p align="center">
-
-```text
-                         ┌─────────────────────┐
-                         │     INTELLIGENCE    │
-                         └──────────┬──────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              ↓                     ↓                     ↓
-        ┌───────────┐         ┌───────────┐         ┌───────────┐
-        │  AGENTS   │         │ RETRIEVAL │         │ LEARNING  │
-        └─────┬─────┘         └─────┬─────┘         └─────┬─────┘
-              │                     │                     │
-              └─────────────────────┼─────────────────────┘
-                                    ↓
-                         ┌─────────────────────┐
-                         │  SYSTEMS ENGINEERING│
-                         └─────────────────────┘
-```
-
-</p>
-
----
-
-# `05` — WHAT I'M EXPLORING
-
-### 🤖 AGENTS
-
-Systems that can:
-
-```text
-reason
-  ↓
-plan
-  ↓
-use tools
-  ↓
-observe
-  ↓
-act
-```
-
-I'm interested in architectures where agents are not simply chat interfaces, but components inside larger deterministic systems.
-
----
-
-### 🧠 LEARNING
-
-Systems that improve through:
-
-`feedback`
-
-`evaluation`
-
-`interaction`
-
-`experience`
-
-`optimization`
-
-I'm particularly interested in the intersection of modern AI systems with **reinforcement learning and decision-making**.
-
----
-
-### ◇ COORDINATION
-
-Multiple intelligent systems working together.
-
-The interesting question isn't only:
-
-> **Can an agent reason?**
-
-It's also:
-
-> **How should intelligent components coordinate?**
-
-This leads into:
-
-`Multi-Agent Systems`
-
-`Planning`
-
-`Task Decomposition`
-
-`Execution Graphs`
-
-`Shared Context`
-
-`Tool Use`
-
-`Criticism`
-
-`Verification`
-
----
-
-# `06` — THE DIRECTION
-
-I'm interested in **applied AI / ML systems** where research meets production engineering.
-
-The areas I'm currently exploring include:
-
-```text
-AI Agents
-LLM Systems
-Retrieval Engineering
-Adaptive RAG
-Multi-Agent Systems
-ML Infrastructure
-Evaluation
-Research Engineering
-Reinforcement Learning
-Decision Intelligence
-```
-
-The direction is toward systems that can:
-
-```text
-REASON
-   ↓
-RETRIEVE
-   ↓
-USE TOOLS
-   ↓
-COLLABORATE
-   ↓
-LEARN
-   ↓
-IMPROVE
-```
-
-Not just systems that generate text.
-
-Systems that can **do things**.
-
----
-
-# `07` — ENGINEERING PHILOSOPHY
-
-### 01 — EVIDENCE BEFORE GENERATION
-
-Reliable systems need reliable information.
-
-```text
-Retrieve
-   ↓
-Verify
-   ↓
-Assemble Evidence
-   ↓
-Generate
-```
-
----
-
-### 02 — LLMs ARE COMPONENTS
-
-An LLM should not automatically become the entire architecture.
-
-I prefer separating:
-
-```text
-Reasoning
-Data
-Tools
-Control
-State
-Execution
-Evaluation
-```
-
----
-
-### 03 — SYSTEMS OVER PROMPTS
-
-Prompt engineering matters.
-
-But production AI requires much more:
-
-`architecture`
-
-`retrieval`
-
-`orchestration`
-
-`observability`
-
-`evaluation`
-
-`failure handling`
-
----
-
-### 04 — MEASURE THE SYSTEM
-
-A system isn't production-ready because it works once.
-
-I care about:
-
-```text
-Accuracy
-Precision
-Recall
-Grounding
-Faithfulness
-Latency
-Reliability
-Failure Modes
-Cost
-```
-
----
-
-# `08` — TECHNOLOGY UNIVERSE
+<!-- =========================
+     THE SYSTEMS LAYER
+========================= -->
+
+# ✧ THE SYSTEMS LAYER
 
 <div align="center">
 
-### AI / ML
+### Intelligence
+`Large Language Models` · `Retrieval-Augmented Generation` · `AI Agents` · `Multi-Agent Systems` · `Reinforcement Learning` · `RLHF` · `Model Evaluation`
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<br/>
 
-<br/><br/>
+### Engineering
+<img src="https://skillicons.dev/icons?i=python,typescript,fastapi,nextjs,postgres,redis,docker,linux,vercel,render&theme=dark" />
 
-### AI Systems
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,redis,postgres" />
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
-
-<br/><br/>
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+`Python` · `TypeScript` · `FastAPI` · `Next.js` · `PostgreSQL` · `Redis` · `FAISS` · `BM25` · `Docker` · `Linux` · `Vercel` · `Render`
 
 </div>
 
 ---
 
-# `09` — CURRENT RESEARCH MAP
+<!-- =========================
+     WHAT I'M EXPLORING
+========================= -->
+
+# ∞ WHAT I'M EXPLORING
 
 ```text
-                         AI SYSTEMS
-                              │
-              ┌───────────────┼───────────────┐
-              │               │               │
-              ↓               ↓               ↓
-          RETRIEVAL        AGENTS          LEARNING
-              │               │               │
-              ↓               ↓               ↓
-        Adaptive RAG      Planning        Reinforcement
-              │               │           Learning
-              ↓               ↓               │
-         Evidence        Multi-Agent         ↓
-         Grounding        Systems        Decision Making
-              │               │               │
-              └───────────────┼───────────────┘
-                              ↓
-                    PRODUCTION AI SYSTEMS
-```
-
----
-
-# `10` — BUILDING IN PUBLIC
-
-I like documenting the engineering behind the systems I build:
-
-```text
-Architecture
-   ↓
-Implementation
-   ↓
-Experiments
-   ↓
-Benchmarks
-   ↓
-Failures
-   ↓
-Lessons
-```
-
-The goal isn't to make every project look perfect.
-
-The goal is to understand **why the system works — and why it fails**.
-
----
-
-# `11` — BEYOND THE PROJECTS
-
-<div align="center">
-
-### Build something.
-
-### Break something.
-
-### Understand why.
-
-### Build it better.
-
-<br/>
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│        BUILD  ·  LEARN  ·  EXPLORE           │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# `12` — CONNECT
-
-<div align="center">
-
-<a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="https://github.com/garimakumari44">
-  <img src="https://img.shields.io/badge/GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LINKEDIN-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**AI Engineering · ML Research · Intelligent Systems**
-
-<br/>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:8B5CF6,100:00F7FF&height=120&section=footer"
-/>
-
-</div>
+                         INTELLIGENT SYSTEMS
+                                │
+                ┌───────────────┼───────────────┐
+                │               │               │
+              AGENTS           RAG              RL
+                │               │               │
+          Coordination      Retrieval       Learning
+                │               │               │
+                └───────────────┼───────────────┘
+                                │
+                         SYSTEMS THAT
+                    LEARN · REASON · ACT
