@@ -1,230 +1,210 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Garima+Kumari;AI+Engineer;Machine+Learning+Researcher;RL+%26+Multi-Agent+Systems+Researcher;Building+Production+AI+Systems" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Machine Learning Researcher • Reinforcement Learning & Multi-Agent Systems Researcher
-</h3>
+<!-- ORION HERO — KEEPING THE ORIGINAL ORION VISUAL -->
 
-<p align="center">
-Building intelligent systems that learn, reason, adapt, and collaborate.
-</p>
+<a href="https://orion-ai-henna.vercel.app/">
+  <img src="https://raw.githubusercontent.com/garimakumari44/orion_ai/main/docs/images/orion-banner.png" width="100%" />
+</a>
 
-<p align="center">
-<img src="assets/banner.png" width="100%" alt="banner"/>
-</p>
+<br/>
 
-<p align="center">
+# Garima Kumari
 
-<img src="https://img.shields.io/badge/AI%20Engineer-0A0A0A?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+### AI Engineer · ML Researcher · Builder
 
-<img src="https://img.shields.io/badge/ML%20Researcher-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+**I build intelligent systems that reason, retrieve, collaborate, and act.**
 
-<img src="https://img.shields.io/badge/RL%20Researcher-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<br/>
 
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-0A0A0A?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+<a href="https://garima-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/garimakumari44">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/garima-singh-4122331bb/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=600&color=6AD3FF&center=true&vCenter=true&repeat=true&width=750&lines=I+love+building...;AI+Systems.;LLM+Applications.;Autonomous+Agents.;Production+RAG+Pipelines.;Reinforcement+Learning+Systems." />
-</p>
+</div>
 
 ---
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> About Me
+## ✦ About
 
-```python
-class GarimaKumari:
+I'm an **AI Engineer** interested in the intersection of intelligent systems and production engineering.
 
-    role = [
-        "AI Engineer",
-        "Machine Learning Researcher",
-        "RL & Multi-Agent Systems Researcher"
-    ]
+I enjoy going beyond model calls—designing the **retrieval, orchestration, evaluation, backend infrastructure, and agentic systems** around them.
 
-    interests = [
-        "Large Language Models",
-        "Retrieval-Augmented Generation",
-        "AI Agents",
-        "Reinforcement Learning",
-        "Multi-Agent Coordination",
-        "NLP",
-        "Production AI Systems"
-    ]
+Currently exploring:
 
-    currently_building = [
-        "Enterprise AI Workflow Systems",
-        "Multi-Agent AI Applications",
-        "Production RAG Systems",
-        "Real-Time AI Voice Intelligence",
-        "RLHF & Self-Improving QA Systems"
-    ]
+`LLMs` · `RAG` · `AI Agents` · `Multi-Agent Systems` · `Reinforcement Learning` · `AI Evaluation`
 
-    mission = "Build AI systems that learn, adapt, reason and collaborate."
+I also spend time studying and experimenting with **RL, multi-agent coordination, and emerging AI systems**.
+
+---
+
+## ◇ Things I've Built
+
+Three production-oriented AI systems, each exploring a different part of the AI stack.
+
+<br/>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ◉ Orion
+
+**Multi-Agent AI Analyst**
+
+An AI analyst system that coordinates specialized agents to research companies, markets, financial signals, news, risk, valuation, and evidence.
+
+**Explores**
+
+`Multi-Agent Systems`
+`LLM Orchestration`
+`AI Research`
+`Evaluation`
+
+<br/>
+
+<a href="https://orion-ai-henna.vercel.app/">Live ↗</a> · <a href="https://github.com/garimakumari44/orion_ai">Code ↗</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### ◉ Enterprise AI
+
+**Document Intelligence**
+
+An enterprise AI workflow platform for turning unstructured documents into structured intelligence through configurable AI workflows.
+
+**Explores**
+
+`RAG`
+`AI Workflows`
+`Document Intelligence`
+`Backend Systems`
+
+<br/>
+
+<a href="https://enterprize-ai.vercel.app/">Live ↗</a> · <a href="https://github.com/garimakumari44/enterprize_ai">Code ↗</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### ◉ Research Assistant
+
+**AI Research System**
+
+A research assistant built around hybrid retrieval for finding and answering questions over AI research papers.
+
+**Explores**
+
+`Hybrid Search`
+`RAG`
+`FAISS`
+`Cross-Encoder`
+
+<br/>
+
+<a href="https://ai-research-assistant-wine.vercel.app/">Live ↗</a> · <a href="https://github.com/garimakumari44/ai_research_assistant">Code ↗</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ⟡ The AI Stack
+
+<div align="center">
+
+**Languages**
+
+Python · TypeScript · C · C++
+
+**AI / ML**
+
+PyTorch · Transformers · LLMs · RAG · Embeddings · RL · RLHF
+
+**AI Systems**
+
+Agents · Multi-Agent Systems · LLM Orchestration · Evaluation
+
+**Backend**
+
+FastAPI · Node.js · PostgreSQL · Redis
+
+**Infrastructure**
+
+Docker · Linux · Git · GitHub · Vercel · Render
+
+</div>
+
+---
+
+## ◌ What I'm Exploring
+
+```text
+                    ┌───────────────────────┐
+                    │    Intelligent AI     │
+                    │       Systems         │
+                    └───────────┬───────────┘
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+          Agents              RAG                 RL
+             │                  │                  │
+       Multi-Agent         Retrieval          Learning
+       Coordination        Systems            & Adaptation
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                │
+                         Production AI
 ```
 
----
-
-# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="35"> Research Interests
-
-- 🧠 Large Language Models
-- 🤖 AI Agents & Autonomous Systems
-- 🎯 Reinforcement Learning
-- 🤝 Multi-Agent Systems
-- 📚 Natural Language Processing
-- 🔬 Representation Learning
-- ⚡ AI Evaluation & Alignment
-- 🌍 Responsible & Scalable AI
+My long-term interest is in systems that can **reason, use tools, learn from feedback, coordinate with other agents, and operate reliably in real environments.**
 
 ---
 
-# <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"> AI Engineering
+## ✧ Current Direction
 
-### Production AI
+I'm currently looking for opportunities to work on **applied AI / ML systems** where I can contribute across the stack—from model behavior and retrieval to orchestration, evaluation, and production infrastructure.
 
-- 🤖 Multi-Agent AI Systems
-- 📚 Production RAG Pipelines
-- 🧠 LLM Orchestration
-- 🔄 AI Workflow Automation
-- ⚙️ AI APIs & Backend Systems
-- 📈 Model Evaluation & Monitoring
+Interested in:
 
-### Machine Learning
-
-- PyTorch
-- Deep Learning
-- NLP
-- Reinforcement Learning
-- RLHF
-- Fine-Tuning
-- Embeddings
+**Applied AI Engineering** · **ML Systems** · **LLM Systems** · **AI Agents** · **Research Engineering**
 
 ---
 
-# <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="35"> Tech Stack
+## ∞ Beyond the Projects
 
-### Languages
+I'm particularly curious about:
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,c,cpp"/>
-</p>
+* Reinforcement learning
+* Multi-agent coordination
+* World models
+* Agentic systems
+* Model evaluation
+* Self-improving AI systems
+* Reliable AI infrastructure
 
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
-
-**Also Working With**
-
-- Transformers
-- RAG
-- RLHF
-- AI Agents
-- LLM Evaluation
-- Multi-Agent Systems
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase"/>
-</p>
-
-### Dev Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-</p>
+I like learning by **building → breaking → measuring → rebuilding.**
 
 ---
 
-# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Currently Building
+<div align="center">
 
-- 🚀 Enterprise Multi-Agent AI Systems
-- 📚 Production Research Assistant (RAG)
-- 🤖 AI Workflow Orchestration
-- 🎤 Real-Time AI Voice Intelligence
-- 🧠 RLHF Self-Improving Question Answering
+### Building systems at the edge of what's possible.
 
----
+<br/>
 
-# <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> What Drives Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:050505&height=100&section=footer"/>
 
-I enjoy building AI systems that combine:
-
-- 🧠 Reasoning
-- 📚 Retrieval
-- 🤖 Autonomous Agents
-- 🎯 Reinforcement Learning
-- 🤝 Multi-Agent Collaboration
-- ⚡ Production Engineering
-
-I believe the future of AI lies in **intelligent systems capable of learning, reasoning, collaborating, and continuously improving in real-world environments.**
-
----
-
-# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=garimakumari44&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garimakumari44&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=garimakumari44&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="35"> Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=garimakumari44&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZwZjN4M3NwZTRlOXl5YWhmNW93OHY5OHMwOGJjOWZ4NmJwdTNoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="35"> Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/garima-singh-4122331bb/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:garimakumari265@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
-<p align="center">
-📧 <strong>garimakumari265@gmail.com</strong>
-</p>
-
----
-
-<h3 align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Production+AI+Systems;Machine+Learning+Researcher;RL+%26+Multi-Agent+Systems;Always+Learning+Something+New+🚀" />
-
-</h3>
-   please help make my github a minimalistic and modern   and my three projects
+</div>
