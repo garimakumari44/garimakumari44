@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1E1B4B,65:4C1D95,100:000000&height=200&section=header&animation=twinkling&fontColor=ffffff" width="100%"/>
-
 <a href="https://orion-ai-henna.vercel.app/">
   <img src="https://raw.githubusercontent.com/garimakumari44/orion_ai/main/docs/images/orion-banner.png" width="100%" />
 </a>
@@ -17,30 +15,28 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/LLMs-1E1B4B?style=for-the-badge&labelColor=1E1B4B&color=1E1B4B"/>
-<img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agents-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-0E7490?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RL-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/RAG-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Agents-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/RL-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
 
 <br/>
 <br/>
 
-<a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&color=4C1D95"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/garimakumari44">
-<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white&color=1E1B4B"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/garima-singh-4122331bb/">
-<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&color=0E7490"/>
-</a>
+<a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/garimakumari44">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/garima-singh-4122331bb/">LinkedIn</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7C3AED,100:000000&height=2&section=header" width="100%"/>
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
@@ -50,19 +46,27 @@
 
 </div>
 
+<br/>
+
 I’m an AI Engineer interested in the space between **machine learning and systems engineering**.
 
 My work focuses on turning models into usable systems — combining retrieval, agents, orchestration, evaluation, and production infrastructure.
 
 Alongside applied AI, I explore **reinforcement learning, multi-agent coordination, and emerging architectures for intelligent systems.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22D3EE,100:000000&height=2&section=header" width="100%"/>
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
 ## ◌ SYSTEMS I'VE BUILT
 
 </div>
+
+<br/>
 
 <table>
 <tr>
@@ -85,10 +89,10 @@ A multi-agent research system where specialized AI analysts collaborate across c
 
 **Core**
 
-<img src="https://img.shields.io/badge/Multi--Agent%20AI-4C1D95?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM%20Orchestration-1E3A8A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Research%20Systems-0E7490?style=flat-square"/>
-<img src="https://img.shields.io/badge/Evaluation-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20AI-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LLM%20Orchestration-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Research%20Systems-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Evaluation-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
 
 <div align="center">
 
@@ -117,10 +121,10 @@ A production AI platform for transforming unstructured business documents into s
 
 **Core**
 
-<img src="https://img.shields.io/badge/RAG-4C1D95?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Workflows-1E3A8A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Document%20Intelligence-0E7490?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend%20Systems-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/AI%20Workflows-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Document%20Intelligence-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Backend%20Systems-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
 
 <div align="center">
 
@@ -149,10 +153,10 @@ A research intelligence system combining dense retrieval, BM25, reranking, metad
 
 **Core**
 
-<img src="https://img.shields.io/badge/Hybrid%20Retrieval-4C1D95?style=flat-square"/>
-<img src="https://img.shields.io/badge/Adaptive%20RAG-1E3A8A?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-0E7490?style=flat-square"/>
-<img src="https://img.shields.io/badge/Evidence-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hybrid%20Retrieval-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Adaptive%20RAG-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FAISS-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Evidence-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
 
 <div align="center">
 
@@ -166,13 +170,19 @@ A research intelligence system combining dense retrieval, BM25, reranking, metad
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7C3AED,100:000000&height=2&section=header" width="100%"/>
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
 ## ✧ THE SYSTEMS LAYER
 
 </div>
+
+<br/>
 
 <table>
 <tr>
@@ -209,13 +219,19 @@ Vercel · Render
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22D3EE,100:000000&height=2&section=header" width="100%"/>
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
 ## ∞ WHAT I'M EXPLORING
 
 </div>
+
+<br/>
 
 ```text
                          INTELLIGENT SYSTEMS
@@ -236,7 +252,11 @@ I'm particularly interested in what happens when these ideas converge:
 
 **agents that can retrieve knowledge, reason over it, use tools, learn from feedback, and collaborate with other agents.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7C3AED,100:000000&height=2&section=header" width="100%"/>
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
@@ -244,21 +264,27 @@ I'm particularly interested in what happens when these ideas converge:
 
 </div>
 
+<br/>
+
 Building toward **applied AI / ML systems** where research meets production engineering.
 
 Interested in working on:
 
-<img src="https://img.shields.io/badge/Applied%20AI-4C1D95?style=flat-square"/>
-<img src="https://img.shields.io/badge/ML%20Systems-1E3A8A?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM%20Engineering-0E7490?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Agents-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Research%20Engineering-1E1B4B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Applied%20AI-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ML%20Systems-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LLM%20Engineering-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/AI%20Agents-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Research%20Engineering-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
 
 I learn by:
 
 **building → breaking → measuring → rebuilding**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22D3EE,100:000000&height=2&section=header" width="100%"/>
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
@@ -281,12 +307,10 @@ There is something interesting about building intelligence:
 <br/>
 
 <a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
-<img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&color=4C1D95"/>
+<img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=FFFFFF"/>
 </a>
 
 <br/>
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1E1B4B,65:4C1D95,100:000000&height=140&section=footer&animation=twinkling"/>
 
 </div>
