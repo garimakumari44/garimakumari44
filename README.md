@@ -8,6 +8,11 @@
 <br/>
 
 # GARIMA KUMARI
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=INTELLIGENT%20SYSTEMS&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=RETRIEVE%20%C2%B7%20REASON%20%C2%B7%20COORDINATE%20%C2%B7%20ACT&descSize=14&descAlignY=62&descColor=A1A1AA" width="100%" alt="Minimalist Systems Header" />
+
+</div>
 
 ### AI Engineer · ML Researcher
 
