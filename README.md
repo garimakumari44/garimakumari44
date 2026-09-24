@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A14,45:312E81,75:A78BFA,100:0A0A14&height=220&section=header&animation=twinkling&fontColor=FBBF24" width="100%"/>
 
-<a href="https://orion-ai-henna.vercel.app/">
-  <img src="https://raw.githubusercontent.com/garimakumari44/orion_ai/main/docs/images/orion-banner.png" width="100%" />
-</a>
+
 
 <br/>
 <br/>
@@ -82,8 +80,11 @@ Alongside applied AI, I explore <b>reinforcement learning, multi-agent coordinat
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/garimakumari44/garimakumari44/main/assets/gemini-svg.svg" width="100%"/>
-
+<img
+  src="https://raw.githubusercontent.com/garimakumari44/garimakumari44/main/assets/intelligent-systems.svg"
+  width="100%"
+  alt="Intelligent Systems Architecture"
+/>
 ## ◌ 𝙎𝙔𝙎𝙏𝙀𝙈𝙎 𝙄'𝙑𝙀 𝘽𝙐𝙄𝙇𝙏
 
 </div>
