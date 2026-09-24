@@ -5,11 +5,11 @@
 ========================= -->
 
 <a href="https://orion-ai-henna.vercel.app/">
-  <img
-    src="https://images.unsplash.com/photo-1534791547706-3c4b2e4e8f0b?auto=format&fit=crop&w=2000&q=90"
-    width="100%"
-    alt="Universe"
-  />
+ <img
+  src="assets/about-focus.png"
+  width="100%"
+  alt="Universe"
+/>
 </a>
 
 <br/>
