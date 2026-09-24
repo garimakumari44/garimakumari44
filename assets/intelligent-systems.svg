@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+<defs>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+<feGaussianBlur stdDeviation="3" result="blur"/>
+<feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<style>
+.orbit-line{stroke:#A78BFA;stroke-opacity:.22;stroke-dasharray:4 4}
+.signal-pulse{stroke:#FBBF24;stroke-dasharray:8 120;animation:flow 3s linear infinite}
+.pulse-core{animation:pulse 2.5s ease-in-out infinite alternate}
+.orbit-node{animation:orbit 12s linear infinite;transform-origin:400px 225px}
+.orbit-node-reverse{animation:orbit-rev 16s linear infinite;transform-origin:400px 225px}
+@keyframes flow{0%{stroke-dashoffset:128}100%{stroke-dashoffset:0}}
+@keyframes pulse{0%{r:28px;opacity:.65}100%{r:35px;opacity:1}}
+@keyframes orbit{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+@keyframes orbit-rev{0%{transform:rotate(360deg)}100%{transform:rotate(0deg)}}
+text{font-family:"JetBrains Mono","SFMono-Regular",Consolas,"Liberation Mono",monospace;fill:#fff;font-weight:500}
+.muted{fill:#A1A1AA}
+</style>
+</defs>
+
+<circle cx="400" cy="225" r="160" class="orbit-line" fill="none" stroke-width="1.5"/>
+<circle cx="400" cy="225" r="90" class="orbit-line" fill="none" stroke-width="1"/>
+
+<line x1="400" y1="225" x2="400" y2="65" stroke="#fff" stroke-opacity=".22" stroke-width="1"/>
+<line x1="400" y1="225" x2="560" y2="225" stroke="#fff" stroke-opacity=".22" stroke-width="1"/>
+<line x1="400" y1="225" x2="400" y2="385" stroke="#fff" stroke-opacity=".22" stroke-width="1"/>
+<line x1="400" y1="225" x2="240" y2="225" stroke="#fff" stroke-opacity=".22" stroke-width="1"/>
+
+<line x1="400" y1="65" x2="400" y2="225" class="signal-pulse" stroke-width="2"/>
+<line x1="240" y1="225" x2="400" y2="225" class="signal-pulse" stroke-width="2"/>
+<line x1="400" y1="225" x2="560" y2="225" class="signal-pulse" stroke-width="2"/>
+<line x1="400" y1="225" x2="400" y2="385" class="signal-pulse" stroke-width="2"/>
+
+<g>
+<circle cx="400" cy="225" r="30" class="pulse-core" fill="none" stroke="#FBBF24" stroke-width="1.5" filter="url(#glow)"/>
+<circle cx="400" cy="225" r="12" fill="#FBBF24"/>
+<text x="400" y="229" font-size="9" text-anchor="middle" fill="#0A0A14" font-weight="bold">CORE</text>
+</g>
+
+<g>
+<circle cx="400" cy="65" r="22" fill="#0A0A14" stroke="#A78BFA" stroke-width="1.5"/>
+<circle cx="400" cy="65" r="4" fill="#FBBF24"/>
+<text x="400" y="28" font-size="12" text-anchor="middle" letter-spacing="2">RETRIEVAL &amp; RAG</text>
+<text x="400" y="105" font-size="9" text-anchor="middle" class="muted">Dense + BM25</text>
+</g>
+
+<g>
+<circle cx="560" cy="225" r="22" fill="#0A0A14" stroke="#A78BFA" stroke-width="1.5"/>
+<circle cx="560" cy="225" r="4" fill="#FBBF24"/>
+<text x="600" y="222" font-size="12" text-anchor="start" letter-spacing="2">AGENTS</text>
+<text x="600" y="236" font-size="9" text-anchor="start" class="muted">Orchestration &amp; Tools</text>
+</g>
+
+<g>
+<circle cx="400" cy="385" r="22" fill="#0A0A14" stroke="#A78BFA" stroke-width="1.5"/>
+<circle cx="400" cy="385" r="4" fill="#FBBF24"/>
+<text x="400" y="425" font-size="12" text-anchor="middle" letter-spacing="2">LEARNING &amp; EVAL</text>
+<text x="400" y="352" font-size="9" text-anchor="middle" class="muted">RL &amp; Grounding</text>
+</g>
+
+<g>
+<circle cx="240" cy="225" r="22" fill="#0A0A14" stroke="#A78BFA" stroke-width="1.5"/>
+<circle cx="240" cy="225" r="4" fill="#FBBF24"/>
+<text x="200" y="222" font-size="12" text-anchor="end" letter-spacing="2">REASONING</text>
+<text x="200" y="236" font-size="9" text-anchor="end" class="muted">Context &amp; Synthesis</text>
+</g>
+
+<g class="orbit-node"><circle cx="400" cy="65" r="3" fill="#FBBF24" filter="url(#glow)"/></g>
+<g class="orbit-node-reverse"><circle cx="400" cy="135" r="2" fill="#A78BFA" opacity=".8"/></g>
+</svg>
