@@ -1,118 +1,159 @@
 <div align="center">
 
-<!-- ORION HERO — KEEPING THE ORIGINAL ORION VISUAL -->
-
 <a href="https://orion-ai-henna.vercel.app/">
   <img src="https://raw.githubusercontent.com/garimakumari44/orion_ai/main/docs/images/orion-banner.png" width="100%" />
 </a>
 
 <br/>
+<br/>
 
-# Garima Kumari
+# GARIMA KUMARI
 
-### AI Engineer · ML Researcher · Builder
+### AI Engineer · ML Researcher
 
-**I build intelligent systems that reason, retrieve, collaborate, and act.**
+**Building intelligent systems for the real world.**
 
 <br/>
 
-<a href="https://garima-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white"/>
+`LLMs` · `RAG` · `Agents` · `Multi-Agent Systems` · `RL`
+
+<br/>
+<br/>
+
+<a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
+Portfolio
 </a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/garimakumari44">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
+GitHub
 </a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/garima-singh-4122331bb/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+LinkedIn
 </a>
 
 </div>
 
 ---
 
-## ✦ About
+<div align="center">
 
-I'm an **AI Engineer** interested in the intersection of intelligent systems and production engineering.
+### ✦ INTELLIGENT SYSTEMS
 
-I enjoy going beyond model calls—designing the **retrieval, orchestration, evaluation, backend infrastructure, and agentic systems** around them.
+*I build systems that retrieve, reason, coordinate, and act.*
 
-Currently exploring:
+</div>
 
-`LLMs` · `RAG` · `AI Agents` · `Multi-Agent Systems` · `Reinforcement Learning` · `AI Evaluation`
+I’m an AI Engineer interested in the space between **machine learning and systems engineering**.
 
-I also spend time studying and experimenting with **RL, multi-agent coordination, and emerging AI systems**.
+My work focuses on turning models into usable systems — combining retrieval, agents, orchestration, evaluation, and production infrastructure.
+
+Alongside applied AI, I explore **reinforcement learning, multi-agent coordination, and emerging architectures for intelligent systems.**
 
 ---
 
-## ◇ Things I've Built
+<div align="center">
 
-Three production-oriented AI systems, each exploring a different part of the AI stack.
+## ◌ SYSTEMS I'VE BUILT
 
-<br/>
+</div>
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### ◉ Orion
+<div align="center">
 
-**Multi-Agent AI Analyst**
+### ◉ ORION
 
-An AI analyst system that coordinates specialized agents to research companies, markets, financial signals, news, risk, valuation, and evidence.
+**Multi-Agent AI for Equity Research**
 
-**Explores**
+<a href="https://orion-ai-henna.vercel.app/">
+<img src="https://raw.githubusercontent.com/garimakumari44/orion_ai/main/docs/images/orion-banner.png" width="100%"/>
+</a>
 
-`Multi-Agent Systems`
+</div>
+
+A multi-agent research system where specialized AI analysts collaborate across company research, financial analysis, industry intelligence, news, macroeconomics, valuation, risk, evidence, and investment review.
+
+**Core**
+
+`Multi-Agent AI`
 `LLM Orchestration`
-`AI Research`
+`Research Systems`
 `Evaluation`
 
-<br/>
+<div align="center">
 
-<a href="https://orion-ai-henna.vercel.app/">Live ↗</a> · <a href="https://github.com/garimakumari44/orion_ai">Code ↗</a>
+<a href="https://orion-ai-henna.vercel.app/">Live ↗</a>
+ ·  <a href="https://github.com/garimakumari44/orion_ai">Source ↗</a>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### ◉ Enterprise AI
+<div align="center">
+
+### ◉ ENTERPRISE
 
 **Document Intelligence**
 
-An enterprise AI workflow platform for turning unstructured documents into structured intelligence through configurable AI workflows.
+<a href="https://enterprize-ai.vercel.app/">
+<img src="https://raw.githubusercontent.com/garimakumari44/enterprize_ai/main/docs/img/enterprise-ai.gif" width="100%"/>
+</a>
 
-**Explores**
+</div>
+
+A production AI platform for transforming unstructured business documents into searchable knowledge and automated workflows.
+
+**Core**
 
 `RAG`
 `AI Workflows`
 `Document Intelligence`
 `Backend Systems`
 
-<br/>
+<div align="center">
 
-<a href="https://enterprize-ai.vercel.app/">Live ↗</a> · <a href="https://github.com/garimakumari44/enterprize_ai">Code ↗</a>
+<a href="https://enterprize-ai.vercel.app/">Live ↗</a>
+ ·  <a href="https://github.com/garimakumari44/enterprize_ai">Source ↗</a>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### ◉ Research Assistant
+<div align="center">
 
-**AI Research System**
+### ◉ RESEARCH
 
-A research assistant built around hybrid retrieval for finding and answering questions over AI research papers.
+**AI Research Intelligence**
 
-**Explores**
+<a href="https://ai-research-assistant-wine.vercel.app/">
+<img src="https://raw.githubusercontent.com/garimakumari44/ai_research_assistant/main/docs/img/research_assistant_gif.png" width="100%"/>
+</a>
 
-`Hybrid Search`
-`RAG`
+</div>
+
+A research intelligence system combining dense retrieval, BM25, reranking, metadata filtering, and adaptive RAG to explore AI research papers.
+
+**Core**
+
+`Hybrid Retrieval`
+`Adaptive RAG`
 `FAISS`
-`Cross-Encoder`
+`Evidence`
 
-<br/>
+<div align="center">
 
-<a href="https://ai-research-assistant-wine.vercel.app/">Live ↗</a> · <a href="https://github.com/garimakumari44/ai_research_assistant">Code ↗</a>
+<a href="https://ai-research-assistant-wine.vercel.app/">Live ↗</a>
+ ·  <a href="https://github.com/garimakumari44/ai_research_assistant">Source ↗</a>
+
+</div>
 
 </td>
 
@@ -121,90 +162,121 @@ A research assistant built around hybrid retrieval for finding and answering que
 
 ---
 
-## ⟡ The AI Stack
-
 <div align="center">
 
-**Languages**
-
-Python · TypeScript · C · C++
-
-**AI / ML**
-
-PyTorch · Transformers · LLMs · RAG · Embeddings · RL · RLHF
-
-**AI Systems**
-
-Agents · Multi-Agent Systems · LLM Orchestration · Evaluation
-
-**Backend**
-
-FastAPI · Node.js · PostgreSQL · Redis
-
-**Infrastructure**
-
-Docker · Linux · Git · GitHub · Vercel · Render
+## ✧ THE SYSTEMS LAYER
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## ◌ What I'm Exploring
+### Intelligence
 
 ```text
-                    ┌───────────────────────┐
-                    │    Intelligent AI     │
-                    │       Systems         │
-                    └───────────┬───────────┘
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-          Agents              RAG                 RL
-             │                  │                  │
-       Multi-Agent         Retrieval          Learning
-       Coordination        Systems            & Adaptation
-             │                  │                  │
-             └──────────────────┼──────────────────┘
-                                │
-                         Production AI
+Large Language Models
+Retrieval-Augmented Generation
+AI Agents
+Multi-Agent Systems
+Reinforcement Learning
+RLHF
+Model Evaluation
 ```
 
-My long-term interest is in systems that can **reason, use tools, learn from feedback, coordinate with other agents, and operate reliably in real environments.**
+</td>
 
----
+<td width="50%" valign="top">
 
-## ✧ Current Direction
+### Engineering
 
-I'm currently looking for opportunities to work on **applied AI / ML systems** where I can contribute across the stack—from model behavior and retrieval to orchestration, evaluation, and production infrastructure.
+```text
+Python · TypeScript
+FastAPI · Next.js
+PostgreSQL · Redis
+FAISS · BM25
+Docker · Linux
+Vercel · Render
+```
 
-Interested in:
-
-**Applied AI Engineering** · **ML Systems** · **LLM Systems** · **AI Agents** · **Research Engineering**
-
----
-
-## ∞ Beyond the Projects
-
-I'm particularly curious about:
-
-* Reinforcement learning
-* Multi-agent coordination
-* World models
-* Agentic systems
-* Model evaluation
-* Self-improving AI systems
-* Reliable AI infrastructure
-
-I like learning by **building → breaking → measuring → rebuilding.**
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Building systems at the edge of what's possible.
+## ∞ WHAT I'M EXPLORING
+
+</div>
+
+```text
+                         INTELLIGENT SYSTEMS
+                                │
+                ┌───────────────┼───────────────┐
+                │               │               │
+              AGENTS           RAG              RL
+                │               │               │
+          Coordination      Retrieval       Learning
+                │               │               │
+                └───────────────┼───────────────┘
+                                │
+                         SYSTEMS THAT
+                    LEARN · REASON · ACT
+```
+
+I'm particularly interested in what happens when these ideas converge:
+
+**agents that can retrieve knowledge, reason over it, use tools, learn from feedback, and collaborate with other agents.**
+
+---
+
+<div align="center">
+
+## ◇ CURRENT DIRECTION
+
+</div>
+
+Building toward **applied AI / ML systems** where research meets production engineering.
+
+Interested in working on:
+
+`Applied AI` · `ML Systems` · `LLM Engineering` · `AI Agents` · `Research Engineering`
+
+I learn by:
+
+**building → breaking → measuring → rebuilding**
+
+---
+
+<div align="center">
+
+## ✦ BEYOND THE CODE
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:050505&height=100&section=footer"/>
+There is something interesting about building intelligence:
+
+<br/>
+
+> *The goal isn't only to make models smarter.*
+>
+> *It's to build systems that can do something meaningful with that intelligence.*
+
+<br/>
+
+**Still exploring. Still building.**
+
+<br/>
+
+<a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
+<img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:0B1020,70:111827,100:050505&height=120&section=footer"/>
 
 </div>
