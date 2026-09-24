@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:2E1065,70:4C1D95,100:000000&height=220&section=header&animation=twinkling&fontColor=ffffff" width="100%"/>
+
 <a href="https://orion-ai-henna.vercel.app/">
   <img src="https://raw.githubusercontent.com/garimakumari44/orion_ai/main/docs/images/orion-banner.png" width="100%" />
 </a>
@@ -15,26 +17,26 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/LLMs-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/RAG-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Agents-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/RL-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LLMs-3B0764?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agents-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RL-7C3AED?style=for-the-badge"/>
 
 <br/>
 <br/>
 
-<a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/garimakumari44">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/garima-singh-4122331bb/">LinkedIn</a>
+<a href="https://portfolio-pi-nine-go9srckad3.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2E1065?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/garimakumari44"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/garima-singh-4122331bb/"><img src="https://img.shields.io/badge/LinkedIn-2E1065?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7C3AED,100:000000&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -56,7 +58,7 @@ Alongside applied AI, I explore **reinforcement learning, multi-agent coordinati
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7C3AED,100:000000&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -89,10 +91,10 @@ A multi-agent research system where specialized AI analysts collaborate across c
 
 **Core**
 
-<img src="https://img.shields.io/badge/Multi--Agent%20AI-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/LLM%20Orchestration-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Research%20Systems-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Evaluation-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20AI-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM%20Orchestration-5B21B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research%20Systems-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Evaluation-7C3AED?style=flat-square"/>
 
 <div align="center">
 
@@ -121,10 +123,10 @@ A production AI platform for transforming unstructured business documents into s
 
 **Core**
 
-<img src="https://img.shields.io/badge/RAG-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/AI%20Workflows-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Document%20Intelligence-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Backend%20Systems-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/RAG-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Workflows-5B21B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Document%20Intelligence-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend%20Systems-7C3AED?style=flat-square"/>
 
 <div align="center">
 
@@ -153,10 +155,10 @@ A research intelligence system combining dense retrieval, BM25, reranking, metad
 
 **Core**
 
-<img src="https://img.shields.io/badge/Hybrid%20Retrieval-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Adaptive%20RAG-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/FAISS-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Evidence-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Hybrid%20Retrieval-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/Adaptive%20RAG-5B21B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Evidence-7C3AED?style=flat-square"/>
 
 <div align="center">
 
@@ -172,7 +174,7 @@ A research intelligence system combining dense retrieval, BM25, reranking, metad
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7C3AED,100:000000&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -221,7 +223,7 @@ Vercel · Render
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7C3AED,100:000000&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -254,7 +256,7 @@ I'm particularly interested in what happens when these ideas converge:
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7C3AED,100:000000&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -270,11 +272,11 @@ Building toward **applied AI / ML systems** where research meets production engi
 
 Interested in working on:
 
-<img src="https://img.shields.io/badge/Applied%20AI-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/ML%20Systems-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/LLM%20Engineering-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/AI%20Agents-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Research%20Engineering-FFFFFF?style=flat-square&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Applied%20AI-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML%20Systems-5B21B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM%20Engineering-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research%20Engineering-3B0764?style=flat-square"/>
 
 I learn by:
 
@@ -282,7 +284,7 @@ I learn by:
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7C3AED,100:000000&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -307,10 +309,12 @@ There is something interesting about building intelligence:
 <br/>
 
 <a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
-<img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/>
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:2E1065,70:4C1D95,100:000000&height=160&section=footer&animation=twinkling" width="100%"/>
 
 </div>
