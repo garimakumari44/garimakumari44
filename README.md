@@ -1,100 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,25:0D071E,55:2E1065,80:7C3AED,100:020205&height=250&section=header&animation=twinkling&fontColor=F5C76A&text=GARIMA%20KUMARI&fontSize=42&desc=AI%20ENGINEER%20·%20ML%20RESEARCHER&descSize=16&descAlignY=68" width="100%"/>
-
-<br/>
-<br/>
-
-# GARIMA KUMARI
-
-### AI ENGINEER · ML RESEARCHER
-
-Building intelligent systems for the real world.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:141210,65:2A2418,100:050505&height=180&section=header&animation=twinkling&fontColor=E3B23C" width="100%"/>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-020205?style=for-the-badge&logo=openai&logoColor=F5C76A&labelColor=0D071E"/>
-  <img src="https://img.shields.io/badge/RAG_Architectures-020205?style=for-the-badge&logo=databricks&logoColor=F5C76A&labelColor=2E1065"/>
-  <img src="https://img.shields.io/badge/Autonomous_Agents-020205?style=for-the-badge&logo=meta&logoColor=F5C76A&labelColor=3B0764"/>
-  <img src="https://img.shields.io/badge/Swarm_Intelligence-020205?style=for-the-badge&logo=probot&logoColor=F5C76A&labelColor=4C1D95"/>
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-020205?style=for-the-badge&logo=pytorch&logoColor=F5C76A&labelColor=0D071E"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:141210,100:0A0A0A&height=110&section=header&text=GARIMA%20KUMARI&font=Orbitron&fontSize=70&fontColor=E3B23C&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:2A2418,100:0A0A0A&height=34&section=header&text=AI%20ENGINEER%20%C2%B7%20ML%20RESEARCHER&font=Space%20Grotesk&fontSize=20&fontColor=9C8B5A&animation=fadeIn" width="70%"/>
 
 <br/>
 
-<p align="center">
-  <a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-020205?style=for-the-badge&logo=vercel&logoColor=F5C76A"/>
-  </a>
-  &nbsp;&nbsp;✦&nbsp;&nbsp;
-  <a href="https://github.com/garimakumari44">
-    <img src="https://img.shields.io/badge/GITHUB-020205?style=for-the-badge&logo=github&logoColor=F5C76A"/>
-  </a>
-  &nbsp;&nbsp;✦&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/garima-singh-4122331bb/">
-    <img src="https://img.shields.io/badge/LINKEDIN-020205?style=for-the-badge&logo=linkedin&logoColor=F5C76A"/>
-  </a>
-</p>
+<sub>**Building intelligent systems for the real world.**</sub>
+
+<br/>
+
+<a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=E3B23C"/>
+</a>
+&nbsp;
+<a href="https://github.com/garimakumari44">
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat&logo=github&logoColor=D9A62E"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/garima-singh-4122331bb/">
+<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat&logo=linkedin&logoColor=C79A2B"/>
+</a>
+
+<br/>
+
+<sub>
+
+`LLMs` · `RAG` · `Agents` · `Multi-Agent Systems` · `RL`
+
+</sub>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:F5C76A,100:020205&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D9A62E,100:0A0A0A&height=2&section=header" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-### ✦ THE INTELLIGENT ORBIT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:141210,100:0A0A0A&height=64&section=header&text=INTELLIGENT%20SYSTEMS&font=Orbitron&fontSize=36&fontColor=D9A62E&animation=fadeIn" width="80%"/>
 
-Constructing systems that retrieve deep knowledge, reason over high-dimensional space, coordinate natively, and act.
-
-<br/>
-
-<table>
-<tr>
-<td align="center" style="background-color: #020205; border: 1px solid #2E1065;">
+<sub><i>I build systems that retrieve, reason, coordinate, and act.</i></sub>
 
 <br/>
 
-I operate in the gravitational vector between Machine Learning and Deep Systems Engineering.
+<sub>
+
+I'm an AI Engineer interested in the space between <b>machine learning and systems engineering</b>.
 
 <br/><br/>
 
-My research & engineering focuses on transforming non-deterministic neural models into resilient production orbits — synthesizing multi-agent networks, dense vector retrieval, continuous RL feedback, and production infrastructure.
+My work focuses on turning models into usable systems — combining retrieval, agents, orchestration, evaluation, and production infrastructure.
 
 <br/><br/>
 
-Currently probing: Reinforcement Learning, Multi-Agent Swarm Dynamics, and Self-Evolving Reasoning Architectures.
+Alongside applied AI, I explore <b>reinforcement learning, multi-agent coordination, and emerging architectures for intelligent systems.</b>
 
-<br/><br/>
-</td>
-</tr>
-</table>
+</sub>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:7C3AED,100:020205&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D9A62E,100:0A0A0A&height=2&section=header" width="100%"/>
 
 <br/>
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/garimakumari44/garimakumari44/main/assets/intelligent-systems.svg"
-  width="100%"
-  alt="Intelligent Systems Architecture"
+src="https://raw.githubusercontent.com/garimakumari44/garimakumari44/main/assets/intelligent-systems.svg"
+width="92%"
+alt="Intelligent Systems Architecture"
 />
 
-<br/><br/>
-
-## 🛸 SYSTEMS IN ORBIT
-
-Deployed intelligent platforms navigating complex real-world state spaces.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:141210,100:0A0A0A&height=64&section=header&text=SYSTEMS%20I%27VE%20BUILT&font=Orbitron&fontSize=36&fontColor=D9A62E&animation=fadeIn" width="80%"/>
 
 </div>
 
@@ -105,11 +91,11 @@ Deployed intelligent platforms navigating complex real-world state spaces.
 
 <td width="33%" valign="top" align="center">
 
-### 🪐 ORION
-
-Multi-Agent Equity Intelligence
+<sub><b>ORION</b></sub>
 
 <br/>
+
+<sub><b>Multi-Agent AI for Equity Research</b></sub>
 
 <a href="https://orion-ai-henna.vercel.app/">
 <img src="https://raw.githubusercontent.com/garimakumari44/orion_ai/main/docs/images/orion-banner.png" width="100%"/>
@@ -117,34 +103,35 @@ Multi-Agent Equity Intelligence
 
 <br/>
 
-A multi-agent research constellation where specialized AI analysts synthesize company data, financial metrics, macroeconomic vectors, and risk profiles into singular strategic insights.
+<sub>
+A multi-agent research system where specialized AI analysts collaborate across company research, financial analysis, industry intelligence, news, macroeconomics, valuation, risk, evidence, and investment review.
+</sub>
 
 <br/><br/>
 
-Core Architecture
+<sub>
 
-<br/>
+`Multi-Agent AI` · `LLM Orchestration` · `Research Systems` · `Evaluation`
 
-<img src="https://img.shields.io/badge/Swarm_Agents-12082B?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Orchestration-2E1065?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Research_Matrix-3B0764?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Eval_Engines-4C1D95?style=flat-square&logoColor=F5C76A"/>
+</sub>
 
 <br/><br/>
 
-<a href="https://orion-ai-henna.vercel.app/">✦ Launch Probe ↗</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/garimakumari44/orion_ai">✦ Telemetry Code ↗</a>
+<sub>
+<a href="https://orion-ai-henna.vercel.app/">Live ↗</a>
+·
+<a href="https://github.com/garimakumari44/orion_ai">Source ↗</a>
+</sub>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-### 🌌 ENTERPRISE
-
-Document Intelligence Engine
+<sub><b>ENTERPRISE</b></sub>
 
 <br/>
+
+<sub><b>Document Intelligence</b></sub>
 
 <a href="https://enterprize-ai.vercel.app/">
 <img src="https://raw.githubusercontent.com/garimakumari44/enterprize_ai/main/docs/img/enterprise-ai.gif" width="100%"/>
@@ -152,34 +139,35 @@ Document Intelligence Engine
 
 <br/>
 
-A production platform converting unstructured business document streams into high-dimensional searchable knowledge graphs and autonomous workflows.
+<sub>
+A production AI platform for transforming unstructured business documents into searchable knowledge and automated workflows.
+</sub>
 
 <br/><br/>
 
-Core Architecture
+<sub>
 
-<br/>
+`RAG` · `AI Workflows` · `Document Intelligence` · `Backend Systems`
 
-<img src="https://img.shields.io/badge/RAG_Pipelines-12082B?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/AI_Workflows-2E1065?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Doc_Intelligence-3B0764?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Backend_Systems-4C1D95?style=flat-square&logoColor=F5C76A"/>
+</sub>
 
 <br/><br/>
 
-<a href="https://enterprize-ai.vercel.app/">✦ Launch Probe ↗</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/garimakumari44/enterprize_ai">✦ Telemetry Code ↗</a>
+<sub>
+<a href="https://enterprize-ai.vercel.app/">Live ↗</a>
+·
+<a href="https://github.com/garimakumari44/enterprize_ai">Source ↗</a>
+</sub>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-### 📡 RESEARCH
-
-Deep Space AI Intelligence
+<sub><b>RESEARCH</b></sub>
 
 <br/>
+
+<sub><b>AI Research Intelligence</b></sub>
 
 <a href="https://ai-research-assistant-wine.vercel.app/">
 <img src="https://raw.githubusercontent.com/garimakumari44/ai_research_assistant/main/docs/img/research_assistant_gif.png" width="100%"/>
@@ -187,24 +175,25 @@ Deep Space AI Intelligence
 
 <br/>
 
-A scientific paper discovery engine fusing hybrid dense-sparse retrieval, BM25, cross-encoder reranking, metadata filtering, and adaptive RAG.
+<sub>
+A research intelligence system combining dense retrieval, BM25, reranking, metadata filtering, and adaptive RAG to explore AI research papers.
+</sub>
 
 <br/><br/>
 
-Core Architecture
+<sub>
 
-<br/>
+`Hybrid Retrieval` · `Adaptive RAG` · `FAISS` · `Evidence`
 
-<img src="https://img.shields.io/badge/Hybrid_Search-12082B?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Adaptive_RAG-2E1065?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/FAISS_Index-3B0764?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Evidence_Rerank-4C1D95?style=flat-square&logoColor=F5C76A"/>
+</sub>
 
 <br/><br/>
 
-<a href="https://ai-research-assistant-wine.vercel.app/">✦ Launch Probe ↗</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/garimakumari44/ai_research_assistant">✦ Telemetry Code ↗</a>
+<sub>
+<a href="https://ai-research-assistant-wine.vercel.app/">Live ↗</a>
+·
+<a href="https://github.com/garimakumari44/ai_research_assistant">Source ↗</a>
+</sub>
 
 </td>
 
@@ -213,13 +202,13 @@ Core Architecture
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:F5C76A,100:020205&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D9A62E,100:0A0A0A&height=2&section=header" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-## ✧ THE SYSTEMS NEBULA
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:141210,100:0A0A0A&height=64&section=header&text=THE%20SYSTEMS%20LAYER&font=Orbitron&fontSize=36&fontColor=D9A62E&animation=fadeIn" width="80%"/>
 
 </div>
 
@@ -230,11 +219,171 @@ Core Architecture
 
 <td width="50%" valign="top" align="center">
 
-### 🧠 Core Intelligence
+<sub><b>Intelligence</b></sub>
+
+<br/>
+
+<sub>
 
 ```text
-🌌 Large Language Models (LLMs)
-🛰️ Retrieval-Augmented Generation (RAG)
-🤖 Swarm & Multi-Agent Orchestration
-🎯 Reinforcement Learning & RLHF
-⚡ Model Evaluation & Benchmarking
+Large Language Models
+Retrieval-Augmented Generation
+AI Agents
+Multi-Agent Systems
+Reinforcement Learning
+RLHF
+Model Evaluation
+```
+
+</sub>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<sub><b>Engineering</b></sub>
+
+<br/>
+
+<sub>
+
+```text
+Python · TypeScript
+FastAPI · Next.js
+PostgreSQL · Redis
+FAISS · BM25
+Docker · Linux
+Vercel · Render
+```
+
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D9A62E,100:0A0A0A&height=2&section=header" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:141210,100:0A0A0A&height=64&section=header&text=WHAT%20I%27M%20EXPLORING&font=Orbitron&fontSize=36&fontColor=D9A62E&animation=fadeIn" width="80%"/>
+
+<br/>
+
+<sub>
+
+```text
+                         INTELLIGENT SYSTEMS
+                                │
+                ┌───────────────┼───────────────┐
+                │               │               │
+              AGENTS          RAG              RL
+                │               │               │
+          Coordination    Retrieval       Learning
+                │               │               │
+                └───────────────┼───────────────┘
+                                │
+                         SYSTEMS THAT
+                 LEARN · REASON · ACT
+```
+
+</sub>
+
+<sub>
+
+I'm particularly interested in what happens when these ideas converge:
+
+<br/><br/>
+
+<b>
+agents that can retrieve knowledge, reason over it, use tools, learn from feedback, and collaborate with other agents.
+</b>
+
+</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D9A62E,100:0A0A0A&height=2&section=header" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:141210,100:0A0A0A&height=64&section=header&text=CURRENT%20DIRECTION&font=Orbitron&fontSize=36&fontColor=D9A62E&animation=fadeIn" width="80%"/>
+
+<br/>
+
+<sub>
+Building toward <b>applied AI / ML systems</b> where research meets production engineering.
+</sub>
+
+<br/><br/>
+
+<sub>Interested in working on:</sub>
+
+<br/>
+
+<sub>
+
+`Applied AI` · `ML Systems` · `LLM Engineering` · `AI Agents` · `Research Engineering`
+
+</sub>
+
+<br/><br/>
+
+<sub>I learn by:</sub>
+
+<br/>
+
+<sub><b>building → breaking → measuring → rebuilding</b></sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D9A62E,100:0A0A0A&height=2&section=header" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:141210,100:0A0A0A&height=64&section=header&text=BEYOND%20THE%20CODE&font=Orbitron&fontSize=36&fontColor=D9A62E&animation=fadeIn" width="80%"/>
+
+<br/>
+
+<sub>There is something interesting about building intelligence:</sub>
+
+<br/><br/>
+
+<sub>
+
+<i>
+"The goal isn't only to make models smarter.<br/>
+It's to build systems that can do something meaningful with that intelligence."
+</i>
+
+</sub>
+
+<br/><br/>
+
+<sub><b>Still exploring. Still building.</b></sub>
+
+<br/><br/>
+
+<a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
+<img src="https://img.shields.io/badge/enter%20the%20universe-0A0A0A?style=flat&logo=vercel&logoColor=E3B23C"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:141210,65:2A2418,100:050505&height=130&section=footer&animation=twinkling" width="100%"/>
+
+</div>
