@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- CELESTIAL HEADER ANIMATION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,25:0D071E,55:2E1065,80:7C3AED,100:020205&height=250&section=header&animation=twinkling&fontColor=F5C76A&text=GARIMA%20KUMARI&fontSize=42&desc=AI%20ENGINEER%20·%20ML%20RESEARCHER&descSize=16&descAlignY=68" width="100%"/>
 
 <br/>
+<br/>
 
-### 🌌 𝘼𝙍𝘾𝙃𝙄𝙏𝙀𝘾𝙏𝙄𝙉𝙂 𝙄𝙉𝙏𝙀𝙇𝙇𝙄𝙂𝙀𝙉𝙏 𝘾𝙊𝙎𝙈𝙊𝙎
-<sub>*Orchestrating high-dimensional intelligence, multi-agent constellations & neural systems.*</sub>
+# GARIMA KUMARI
+
+### AI ENGINEER · ML RESEARCHER
+
+Building intelligent systems for the real world.
 
 <br/>
 
-<!-- RARE ASTRO TECH BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-020205?style=for-the-badge&logo=openai&logoColor=F5C76A&labelColor=0D071E"/>
   <img src="https://img.shields.io/badge/RAG_Architectures-020205?style=for-the-badge&logo=databricks&logoColor=F5C76A&labelColor=2E1065"/>
@@ -21,7 +23,6 @@
 
 <br/>
 
-<!-- NAVIGATION ORBITS -->
 <p align="center">
   <a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-020205?style=for-the-badge&logo=vercel&logoColor=F5C76A"/>
@@ -40,16 +41,15 @@
 
 <br/>
 
-<!-- GOLD ASTRAL LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:F5C76A,100:020205&height=2&section=header" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-### ✦ 𝙏𝙃𝙀 𝙄𝙉𝙏𝙀𝙇𝙇𝙄𝙂𝙀𝙉𝙏 𝙊𝙍𝘽𝙄𝙏
+### ✦ THE INTELLIGENT ORBIT
 
-<sub><i>"Constructing systems that retrieve deep knowledge, reason over high-dimensional space, coordinate natively, and act."</i></sub>
+Constructing systems that retrieve deep knowledge, reason over high-dimensional space, coordinate natively, and act.
 
 <br/>
 
@@ -59,9 +59,7 @@
 
 <br/>
 
-<sub>
-
-I operate in the **gravitational vector between Machine Learning and Deep Systems Engineering**.
+I operate in the gravitational vector between Machine Learning and Deep Systems Engineering.
 
 <br/><br/>
 
@@ -69,9 +67,7 @@ My research & engineering focuses on transforming non-deterministic neural model
 
 <br/><br/>
 
-Currently probing: **Reinforcement Learning, Multi-Agent Swarm Dynamics, and Self-Evolving Reasoning Architectures.**
-
-</sub>
+Currently probing: Reinforcement Learning, Multi-Agent Swarm Dynamics, and Self-Evolving Reasoning Architectures.
 
 <br/><br/>
 </td>
@@ -82,7 +78,6 @@ Currently probing: **Reinforcement Learning, Multi-Agent Swarm Dynamics, and Sel
 
 <br/>
 
-<!-- VIOLET ASTRAL LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:7C3AED,100:020205&height=2&section=header" width="100%"/>
 
 <br/>
@@ -97,9 +92,9 @@ Currently probing: **Reinforcement Learning, Multi-Agent Swarm Dynamics, and Sel
 
 <br/><br/>
 
-## 🛸 𝙎𝙔𝙎𝙏𝙀𝙈𝙎 𝙄𝙉 𝙊𝙍𝘽𝙄𝙏
+## 🛸 SYSTEMS IN ORBIT
 
-<sub>*Deployed intelligent platforms navigating complex real-world state spaces.*</sub>
+Deployed intelligent platforms navigating complex real-world state spaces.
 
 </div>
 
@@ -110,9 +105,9 @@ Currently probing: **Reinforcement Learning, Multi-Agent Swarm Dynamics, and Sel
 
 <td width="33%" valign="top" align="center">
 
-### 🪐 𝙊𝙍𝙄𝙊𝙉
+### 🪐 ORION
 
-<sub><b>Multi-Agent Equity Intelligence</b></sub>
+Multi-Agent Equity Intelligence
 
 <br/>
 
@@ -122,13 +117,11 @@ Currently probing: **Reinforcement Learning, Multi-Agent Swarm Dynamics, and Sel
 
 <br/>
 
-<sub>
 A multi-agent research constellation where specialized AI analysts synthesize company data, financial metrics, macroeconomic vectors, and risk profiles into singular strategic insights.
-</sub>
 
 <br/><br/>
 
-<sub><b>Core Architecture</b></sub>
+Core Architecture
 
 <br/>
 
@@ -139,19 +132,17 @@ A multi-agent research constellation where specialized AI analysts synthesize co
 
 <br/><br/>
 
-<sub>
 <a href="https://orion-ai-henna.vercel.app/">✦ Launch Probe ↗</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/garimakumari44/orion_ai">✦ Telemetry Code ↗</a>
-</sub>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-### 🌌 𝙀𝙉𝙏𝙀𝙍𝙋𝙍𝙄𝙎𝙀
+### 🌌 ENTERPRISE
 
-<sub><b>Document Intelligence Engine</b></sub>
+Document Intelligence Engine
 
 <br/>
 
@@ -161,13 +152,11 @@ A multi-agent research constellation where specialized AI analysts synthesize co
 
 <br/>
 
-<sub>
 A production platform converting unstructured business document streams into high-dimensional searchable knowledge graphs and autonomous workflows.
-</sub>
 
 <br/><br/>
 
-<sub><b>Core Architecture</b></sub>
+Core Architecture
 
 <br/>
 
@@ -178,19 +167,17 @@ A production platform converting unstructured business document streams into hig
 
 <br/><br/>
 
-<sub>
 <a href="https://enterprize-ai.vercel.app/">✦ Launch Probe ↗</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/garimakumari44/enterprize_ai">✦ Telemetry Code ↗</a>
-</sub>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-### 📡 𝙍𝙀𝙎𝙀𝘼𝙍𝘾𝙃
+### 📡 RESEARCH
 
-<sub><b>Deep Space AI Intelligence</b></sub>
+Deep Space AI Intelligence
 
 <br/>
 
@@ -200,13 +187,11 @@ A production platform converting unstructured business document streams into hig
 
 <br/>
 
-<sub>
 A scientific paper discovery engine fusing hybrid dense-sparse retrieval, BM25, cross-encoder reranking, metadata filtering, and adaptive RAG.
-</sub>
 
 <br/><br/>
 
-<sub><b>Core Architecture</b></sub>
+Core Architecture
 
 <br/>
 
@@ -217,11 +202,9 @@ A scientific paper discovery engine fusing hybrid dense-sparse retrieval, BM25, 
 
 <br/><br/>
 
-<sub>
 <a href="https://ai-research-assistant-wine.vercel.app/">✦ Launch Probe ↗</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/garimakumari44/ai_research_assistant">✦ Telemetry Code ↗</a>
-</sub>
 
 </td>
 
@@ -230,14 +213,13 @@ A scientific paper discovery engine fusing hybrid dense-sparse retrieval, BM25, 
 
 <br/>
 
-<!-- GOLD ASTRAL LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:F5C76A,100:020205&height=2&section=header" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-## ✧ 𝙏𝙃𝙀 𝙎𝙔𝙎𝙏𝙀𝙈𝙎 𝙉𝙀𝘽𝙐𝙇𝘼
+## ✧ THE SYSTEMS NEBULA
 
 </div>
 
