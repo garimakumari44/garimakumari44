@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020208,25:0a0c1a,50:15102a,75:0a0c1a,100:020208&height=220&section=header&animation=twinkling&fontColor=ffffff&text=✨%20GARIMA%20KUMARI%20✨&fontSize=24&desc=✦%20AI%20ENGINEER%20·%20ML%20RESEARCHER%20✦&descSize=12&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020208,25:0a0c1a,50:15102a,75:0a0c1a,100:020208&height=220&section=header&animation=twinkling&fontColor=ffffff&text=✧%20*%20.%20GARIMA%20KUMARI%20.%20*%20✧&fontSize=22&desc=✦%20AI%20ENGINEER%20·%20ML%20RESEARCHER%20✦&descSize=12&descAlignY=68" width="100%"/>
 
 <br/>
 
 <p align="center">
-  <sub>✧ . * . 🛰️  orchestrating neural architectures & cosmic intelligence  🌌 . * . ✧</sub>
+  <sub>✧ . * . 🛰️ orchestrating neural architectures & cosmic intelligence 🌌 . * . ✧</sub>
 </p>
 
 <br/>
