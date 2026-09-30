@@ -8,15 +8,7 @@
   <sub>✧ . * . 🛰️ orchestrating neural architectures & cosmic intelligence 🌌 . * . ✧</sub>
 </p>
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,25:12131c,50:1c1d2d,75:12131c,100:09090b&height=220&section=header&fontColor=ffffff&text=GARIMA%20KUMARI&fontSize=22&desc=AI%20ENGINEER%20·%20ML%20RESEARCHER&descSize=12&descAlignY=68" width="100%"/>
-
-<br/>
-
-<p align="center">
-  <sub>orchestrating neural architectures & intelligent platforms</sub>
-</p>
 
 <br/>
 
