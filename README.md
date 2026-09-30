@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=180&section=header&fontColor=ffffff&text=GARIMA%20KUMARI&fontSize=24&desc=AI%20ENGINEER%20·%20ML%20RESEARCHER&descSize=12&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,30:0b0c16,70:121324,100:050508&height=200&section=header&animation=twinkling&fontColor=ffffff&text=GARIMA%20KUMARI&fontSize=24&desc=AI%20ENGINEER%20·%20ML%20RESEARCHER&descSize=12&descAlignY=68" width="100%"/>
 
 <br/><br/>
 
 <p align="center">
   <a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
-    <img src="https://img.shields.io/badge/portfolio-1e1e1e?style=flat&logo=vercel&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/portfolio-121324?style=flat&logo=vercel&logoColor=ffffff"/>
   </a>
   &nbsp;
   <a href="https://github.com/garimakumari44">
-    <img src="https://img.shields.io/badge/github-1e1e1e?style=flat&logo=github&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/github-121324?style=flat&logo=github&logoColor=ffffff"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/garima-singh-4122331bb/">
-    <img src="https://img.shields.io/badge/linkedin-1e1e1e?style=flat&logo=linkedin&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/linkedin-121324?style=flat&logo=linkedin&logoColor=ffffff"/>
   </a>
 </p>
 
