@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,30:12082B,60:3B0764,85:7C3AED,100:020205&height=220&section=header&animation=twinkling&fontColor=F5C76A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0533,50:4c1d95,75:7c3aed,100:000000&height=240&section=header&animation=twinkling&fontColor=FFD700" width="100%"/>
 
 <br/>
-<br/>
 
-# 𝙂𝘼𝙍𝙄𝙈𝘼 𝙆𝙐𝙈𝘼𝙍𝙄
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&width=700&height=70&lines=%F0%9F%8C%8C+GARIMA+KUMARI+%F0%9F%8C%8C;AI+ENGINEER+%C2%B7+ML+RESEARCHER" alt="GARIMA KUMARI"/>
 
 ### 𝘼𝙄 𝙀𝙉𝙂𝙄𝙉𝙀𝙀𝙍 · 𝙈𝙇 𝙍𝙀𝙎𝙀𝘼𝙍𝘾𝙃𝙀𝙍
 
@@ -13,36 +12,31 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/LLMs-12082B?style=for-the-badge&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/RAG-2E1065?style=for-the-badge&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Agents-3B0764?style=for-the-badge&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-4C1D95?style=for-the-badge&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/RL-12082B?style=for-the-badge&logoColor=F5C76A"/>
-
-<br/>
-<br/>
-
 <a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-020205?style=for-the-badge&logo=vercel&logoColor=F5C76A"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFD700"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://github.com/garimakumari44">
-<img src="https://img.shields.io/badge/GitHub-020205?style=for-the-badge&logo=github&logoColor=F5C76A"/>
+<img src="https://img.shields.io/badge/GitHub-0d001a?style=for-the-badge&logo=github&logoColor=FFD700"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://www.linkedin.com/in/garima-singh-4122331bb/">
-<img src="https://img.shields.io/badge/LinkedIn-020205?style=for-the-badge&logo=linkedin&logoColor=F5C76A"/>
+<img src="https://img.shields.io/badge/LinkedIn-1a0033?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLMs-4c1d95?style=for-the-badge&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/RAG-6d28d9?style=for-the-badge&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Agents-7c3aed?style=for-the-badge&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-8b5cf6?style=for-the-badge&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/RL-a855f7?style=for-the-badge&logoColor=FFD700"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:F5C76A,100:020205&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:4c1d95,70:7c3aed,100:000000&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -50,7 +44,13 @@
 
 ### ✦ 𝙄𝙉𝙏𝙀𝙇𝙇𝙄𝙂𝙀𝙉𝙏 𝙎𝙔𝙎𝙏𝙀𝙈𝙎
 
-<sub><i>I build systems that retrieve, reason, coordinate, and act.</i></sub>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=16&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&height=30&lines=I+build+systems+that+retrieve%2C+reason%2C+coordinate%2C+and+act." alt="tagline"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=garimakumari44&show_icons=true&theme=midnight-purple&bg_color=000000&title_color=FFD700&text_color=A78BFA&icon_color=7C3AED&border_color=4c1d95&hide_border=false&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=garimakumari44&theme=midnight-purple&background=000000&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&sideLabels=A78BFA&dates=7C3AED&border=4C1D95" height="170"/>
 
 <br/>
 
@@ -72,7 +72,7 @@ Alongside applied AI, I explore <b>reinforcement learning, multi-agent coordinat
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:7C3AED,100:020205&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:7c3aed,70:c026d3,100:000000&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -115,10 +115,10 @@ A multi-agent research system where specialized AI analysts collaborate across c
 
 <br/>
 
-<img src="https://img.shields.io/badge/Multi--Agent%20AI-12082B?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/LLM%20Orchestration-2E1065?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Research%20Systems-3B0764?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Evaluation-4C1D95?style=flat-square&logoColor=F5C76A"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20AI-4c1d95?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/LLM%20Orchestration-6d28d9?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Research%20Systems-7c3aed?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Evaluation-a855f7?style=flat-square&logoColor=FFD700"/>
 
 <br/><br/>
 
@@ -152,10 +152,10 @@ A production AI platform for transforming unstructured business documents into s
 
 <br/>
 
-<img src="https://img.shields.io/badge/RAG-12082B?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/AI%20Workflows-2E1065?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Document%20Intelligence-3B0764?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Backend%20Systems-4C1D95?style=flat-square&logoColor=F5C76A"/>
+<img src="https://img.shields.io/badge/RAG-4c1d95?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/AI%20Workflows-6d28d9?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Document%20Intelligence-7c3aed?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Backend%20Systems-a855f7?style=flat-square&logoColor=FFD700"/>
 
 <br/><br/>
 
@@ -189,10 +189,10 @@ A research intelligence system combining dense retrieval, BM25, reranking, metad
 
 <br/>
 
-<img src="https://img.shields.io/badge/Hybrid%20Retrieval-12082B?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Adaptive%20RAG-2E1065?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/FAISS-3B0764?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Evidence-4C1D95?style=flat-square&logoColor=F5C76A"/>
+<img src="https://img.shields.io/badge/Hybrid%20Retrieval-4c1d95?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Adaptive%20RAG-6d28d9?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/FAISS-7c3aed?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Evidence-a855f7?style=flat-square&logoColor=FFD700"/>
 
 <br/><br/>
 
@@ -209,7 +209,7 @@ A research intelligence system combining dense retrieval, BM25, reranking, metad
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:F5C76A,100:020205&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:FFD700,70:c026d3,100:000000&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -268,7 +268,7 @@ Vercel · Render
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:7C3AED,100:020205&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:7c3aed,70:3b0764,100:000000&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -313,7 +313,7 @@ agents that can retrieve knowledge, reason over it, use tools, learn from feedba
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:F5C76A,100:020205&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:c026d3,70:FFD700,100:000000&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -333,11 +333,11 @@ Building toward <b>applied AI / ML systems</b> where research meets production e
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Applied%20AI-12082B?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/ML%20Systems-2E1065?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/LLM%20Engineering-3B0764?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/AI%20Agents-4C1D95?style=flat-square&logoColor=F5C76A"/>
-<img src="https://img.shields.io/badge/Research%20Engineering-12082B?style=flat-square&logoColor=F5C76A"/>
+<img src="https://img.shields.io/badge/Applied%20AI-4c1d95?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/ML%20Systems-6d28d9?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/LLM%20Engineering-7c3aed?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/AI%20Agents-a855f7?style=flat-square&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Research%20Engineering-c026d3?style=flat-square&logoColor=FFD700"/>
 
 <br/><br/>
 
@@ -351,7 +351,7 @@ Building toward <b>applied AI / ML systems</b> where research meets production e
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020205,50:7C3AED,100:020205&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:7c3aed,70:4c1d95,100:000000&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -381,12 +381,12 @@ It's to build systems that can do something meaningful with that intelligence."
 <br/><br/>
 
 <a href="https://portfolio-pi-nine-go9srckad3.vercel.app/">
-<img src="https://img.shields.io/badge/ENTER_THE_UNIVERSE-12082B?style=for-the-badge&logo=vercel&logoColor=F5C76A"/>
+<img src="https://img.shields.io/badge/ENTER_THE_UNIVERSE-000000?style=for-the-badge&logo=vercel&logoColor=FFD700"/>
 </a>
 
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,30:12082B,60:3B0764,85:7C3AED,100:020205&height=160&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0533,50:4c1d95,75:7c3aed,100:000000&height=180&section=footer&animation=twinkling" width="100%"/>
 
 </div>
